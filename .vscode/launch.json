@@ -1,0 +1,56 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "GUI",
+            "request": "launch",
+            "mainClass": "GUI",
+            "projectName": "Java_36d72ae2"
+        },
+        {
+            "type": "java",
+            "name": "operations",
+            "request": "launch",
+            "mainClass": "operations",
+            "projectName": "Java_36d72ae2"
+        },
+        {
+            "type": "java",
+            "name": "userinput",
+            "request": "launch",
+            "mainClass": "userinput",
+            "projectName": "Java_36d72ae2"
+        },
+        {
+            "type": "java",
+            "name": "swapvariables",
+            "request": "launch",
+            "mainClass": "swapvariables",
+            "projectName": "Java_36d72ae2"
+        },
+        {
+            "type": "java",
+            "name": "variables",
+            "request": "launch",
+            "mainClass": "variables",
+            "projectName": "Java_36d72ae2"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "hello",
+            "request": "launch",
+            "mainClass": "hello",
+            "projectName": "Java_36d72ae2"
+        }
+    ]
+}
